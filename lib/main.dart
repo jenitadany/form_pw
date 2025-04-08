@@ -122,7 +122,6 @@ class _SimpleFormState extends State<SimpleForm> {
   }
 }
 
-// 🎉 Success Screen (Navigated After Form Submission)
 class SuccessScreen extends StatelessWidget {
   final String name;
   final String email;
